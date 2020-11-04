@@ -16,7 +16,7 @@ Hi there, I'm **Muhamed Bećirović**, a **Game Developer**  and a **Graphic Des
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I*m currently working on an open-world game;
+- 👨🏽‍💻 I*m currently working on puzzle game;
 - 🌱 I like procedular games; 
 - 🤔 My interests are with Procedular Generation, Game Design, Writing, etc..;
 - 💬 Ask me about anything, I am happy to help;
